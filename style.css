@@ -9,14 +9,39 @@
   cursor: pointer;
   opacity: 0.9;
 }
-h4{
+
+
+
+/*flag part begin*/
+#col1{
+  padding-left: 100px;
+  padding-top: 50px;
+}
+#stats{
+  margin-top: 75px;
+  margin-left: -30px;
+  display: flex;
+  justify-content: space-evenly;
+}
+hr{
+  width:5px;
+  background-color: green;
+}
+#p1{
+  text-decoration: underline;
+  text-decoration-color: green;
+}
+/*flag part end*/
+
+
+#toprib{
   text-align:center;
   margin-left: 120px;
   margin-right: 120px;
   line-height: 3;
   word-spacing: 5px;
 }
-h5{
+#mob{
   margin-top: 50px;
   line-height: 2.3;
   word-spacing: 3.5px;
