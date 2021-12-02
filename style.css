@@ -9,6 +9,13 @@
   cursor: pointer;
   opacity: 0.9;
 }
+h4{
+  text-align:center;
+  margin-left: 120px;
+  margin-right: 120px;
+  line-height: 3;
+  word-spacing: 5px;
+}
 .w8-button.iconize2 {
   padding-right: 50px !important;
   background: url("2388013_35x35.png") no-repeat 5px center;
