@@ -9,9 +9,13 @@
   cursor: pointer;
   opacity: 0.9;
 }
-
-
-
+#toprib{
+  text-align:center;
+  margin-left: 120px;
+  margin-right: 120px;
+  line-height: 3;
+  word-spacing: 5px;
+}
 /*flag part begin*/
 #col1{
   padding-left: 100px;
@@ -32,15 +36,6 @@ hr{
   text-decoration-color: green;
 }
 /*flag part end*/
-
-
-#toprib{
-  text-align:center;
-  margin-left: 120px;
-  margin-right: 120px;
-  line-height: 3;
-  word-spacing: 5px;
-}
 #mob{
   margin-top: 50px;
   line-height: 2.3;
@@ -189,7 +184,7 @@ body {
     top: -80px;
   }
   #lowerdiv{
-    margin-top: 200px;
+    margin-top: 100px;
   }
   .dark-mode {
     background: black;
