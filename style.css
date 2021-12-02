@@ -16,6 +16,11 @@ h4{
   line-height: 3;
   word-spacing: 5px;
 }
+h5{
+  margin-top: 50px;
+  line-height: 2.3;
+  word-spacing: 3.5px;
+}
 .w8-button.iconize2 {
   padding-right: 50px !important;
   background: url("2388013_35x35.png") no-repeat 5px center;
