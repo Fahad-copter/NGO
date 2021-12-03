@@ -61,6 +61,7 @@ body{
 
 .msg textarea{
   height: 212px;
+  resize:none;
 }
 
 ::-webkit-input-placeholder {
